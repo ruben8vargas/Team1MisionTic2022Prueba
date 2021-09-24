@@ -1,4 +1,3 @@
-
 # Rubén Darío Vargas Jiménez 
 
 Soy ingeniero en Electrónica y Telecomunicaciones de la universidad del Cauca, Estoy fortaleciendo mis habilidades en programación e inglés. Me gusta trotar y jugar ajedrez. 
