@@ -2,16 +2,12 @@
 
 Grupo 43-44-45
 
-#Integrantes
+# Integrantes
 
 Alejandro Ardila Quesada
-
 Alejandro Granada Ospina
-
 Argemiro Vargas Villareal
-
 Carlos Andres Soriano Gonzalez
-
 Rubén Darío Vargas Jiménez
 
 
