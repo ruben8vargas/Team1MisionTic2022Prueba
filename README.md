@@ -4,11 +4,11 @@ Grupo 43-44-45
 
 # Integrantes
 
-Alejandro Ardila Quesada
-Alejandro Granada Ospina
-Argemiro Vargas Villareal
-Carlos Andres Soriano Gonzalez
-Rubén Darío Vargas Jiménez
+Alejandro Ardila Quesada/n
+Alejandro Granada Ospina/n
+Argemiro Vargas Villareal/n
+Carlos Andres Soriano Gonzalez/n
+Rubén Darío Vargas Jiménez/n
 
 
 # Descripción Proyecto 
