@@ -2,17 +2,18 @@
 
 Grupo 43-44-45
 
-#Integrantes Team 1
+#Integrantes
 
-Rubén Darío Vargas Jiménez
+Alejandro Ardila Quesada
 
-Carlos Andres Soriano Gonzalez
- 
 Alejandro Granada Ospina
 
 Argemiro Vargas Villareal
 
-Alejandro Ardila Quesada
+Carlos Andres Soriano Gonzalez 
+
+Rubén Darío Vargas Jiménez
+
 
 # Descripción Proyecto 
 Se propone analizar, diseñar y construir una aplicación software que permita controlar las ventas físicas y virtuales de una empresa de manufactura y hacerles el correspondiente seguimiento.
